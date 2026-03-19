@@ -1,2 +1,3 @@
-Version 1.0 de menu.html desde master
-Revisar por el jefe
+Version 1.0 de menu.html desde master (rama principal)
+Version 1 de menu.html (rama pruebas2)
+Revisar por el jefe y por jefe de proyecto
